@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Shear Thinning of Lubricants"
 mathjax: true
 layout: post
 categories: media
