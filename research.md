@@ -4,8 +4,6 @@ title: Research Projects
 permalink: /research/
 ---
 
-<h1>{{ page.title }}</h1>
-
 <ul class="post-list">
   {% assign projects = site.research | sort: "date" | reverse %}
   {% for project in projects %}
