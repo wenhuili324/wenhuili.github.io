@@ -1,10 +1,18 @@
 ---
 layout: default
-title: "Research"
+title: Research Projects
+permalink: /research/
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="research" %}
-{% endif %}
+<h1>{{ page.title }}</h1>
+
+<ul class="post-list">
+  {% assign projects = site.research | sort: "date" | reverse %}
+  {% for project in projects %}
+    <li>
+      <span class="post-date">{{ project.date | date: "%Y-%m-%d" }}</span>
+      <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+      <p>{{ project.excerpt | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
