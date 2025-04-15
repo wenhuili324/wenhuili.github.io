@@ -1,5 +1,5 @@
 ---
-title:  "Machine Learning (ML) Accelerates Molecular Dynamics (MD) Simulations"
+title:  "Fluids at Interfaces"
 layout: post
 mathjax: true
 categories: media
