@@ -18,3 +18,9 @@ Email: wenhuili324@gmail.com
 LinkedIn: [my_LinkedIn][my_linkedin]
 
 Google Scholar: [my_Google_Scholar][my_google_scholar]
+
+
+[my_linkedin]: https://www.linkedin.com/in/wenhui-li-58ba85201/
+[my_google_scholar]: https://scholar.google.com/citations?user=zIo3NqEAAAAJ&hl=en
+[research_lab]: https://jadhaolab.engineering.indiana.edu/index.html
+[Stephen Curry]: https://en.wikipedia.org/wiki/Stephen_Curry
