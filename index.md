@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Wenhui Li's Personal Website"
-layout: post
+layout: page
 ---
 
 Hi! I’m Wenhui Li, a postdoc researcher in Prof. [Vikram Jadhao's research group][research_lab] at Indiana University Bloomington. With 7+ years of experiences, I'm working at the intersection of computational science, chemical and biological engineering, and machine learning.
