@@ -1,6 +1,8 @@
 ---
 title:  "Nanoparticle Encapsulation by Protein"
 layout: post
+mathjax: true
+categories: media
 ---
 
 <!--
