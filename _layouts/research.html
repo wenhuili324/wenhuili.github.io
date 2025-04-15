@@ -4,13 +4,11 @@ title: Research Projects
 permalink: /research/
 ---
 
-<ul class="post-list">
-  {% assign projects = site.research | sort: "date" | reverse %}
-  {% for project in projects %}
-    <li>
-      <span class="post-date">{{ project.date | date: "%Y-%m-%d" }}</span>
-      <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
-      <p>{{ project.excerpt | markdownify }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% assign posts = site.research | sort: "date" | reverse %}
+{% for post in posts %}
+  <article>
+    {% include meta.html post=post preview=true %}
+    {{ post.excerpt }}
+    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
+  </article>
+{% endfor %}
