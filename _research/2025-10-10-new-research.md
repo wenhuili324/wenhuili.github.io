@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "Machine Learning Accelerates Molecular Dynamics (MD) Simulations"
 layout: post
 ---
 
