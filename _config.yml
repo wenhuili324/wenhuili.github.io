@@ -21,7 +21,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV_Wenhui.pdf", title: "CV"}
+  - {title: "CV", url: "https://wenhuili324.github.io/CV_Wenhui.pdf"}
   - {file: "research.md", title: "Research Projects"}
   - {file: "blog.md", title: "Life & Moments"}
 
