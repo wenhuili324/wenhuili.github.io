@@ -8,7 +8,8 @@ Fluids confined within nanoscale pores exhibit structural and transport behavior
 
 We employed molecular dynamics (MD) simulations to systematically investigate CO₂ solubility in confined environments, revealing how surface chemistry, pore size, and the presence of salt ions collectively influence "over-solubility" or "under-solubility" phenomena. These findings demonstrate the potential and complexity of CO₂ geo-sequestration in tight formations. Additionally, we developed in-house computational tools to characterize amorphous nanoporous media and simulate gas transport. Our results highlight how factors such as porosity, pore connectivity, size distribution, and tortuosity govern diffusion behavior, offering valuable insights for optimizing shale gas recovery.
 
-See our publications: 
+See our publications:
+
 [Slip length of methane flow under shale reservoir conditions: Effect of pore size and pressure](https://doi.org/10.1016/j.fuel.2019.116237)
 
 [Hydrophilicity/hydrophobicity driven CO2 solubility in kaolinite nanopores in relation to carbon sequestration](https://doi.org/10.1016/j.cej.2020.125449)
