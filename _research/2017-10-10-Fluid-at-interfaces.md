@@ -35,7 +35,7 @@ See our publications:
 [Molecular Dynamics Simulation of a Brine Droplet under an Electric Field: Distinct Behavior Shown by NaCl and CaCl2](https://doi.org/10.1021/acs.jpcb.3c02309)
 
 ![fluid at interface system](/assets/fluid_at_interface.png)
-## Fig.1 An typical example of water-oil interface system
+## Fig.1 A typical example of water-oil interface system
 
 ![water droplet under electric field](/assets/waterdrop.png)
 ## Fig.2 Brine droplet in oil under an external electric field: effects of ion valency and salt concentration
