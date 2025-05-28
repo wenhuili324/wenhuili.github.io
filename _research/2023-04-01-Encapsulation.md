@@ -12,11 +12,11 @@ Another key insight is that, for efficient encapsulation, the interaction streng
 
 ![PMF Simulation system](/assets/PMF_System.png)
 
-## MD simulation system for calculating potential of mean force (PMF) between nanoparticle and protomer
+## Fig.1 MD simulation system for calculating potential of mean force (PMF) between nanoparticle and protomer
 
 ![TEM](/assets/TEM.png)
 
-## TEM image of encapsulated nanopaticles functionalized by ligands and peptides
+## Fig.2 TEM image of encapsulated nanopaticles functionalized by ligands and peptides
 
 <!--
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
