@@ -6,4 +6,6 @@ Some photos from the 2025 APS Global Physics Summit (March 16–21) in Anaheim, 
 
 <!--more-->
 
+![Presentation](/assets/APS Presentation.jpg)
+### I have a presentation in this conference
 
