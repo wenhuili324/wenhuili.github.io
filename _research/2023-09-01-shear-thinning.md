@@ -16,12 +16,16 @@ We applied machine learning techniques—specifically, dimensionality reduction 
 
 To evaluate the validity of thermal activation models, we analyzed molecular rearrangement patterns, which these models identify as the primary mechanism behind shear thinning. Our results show that the observed molecular rearrangements are consistent with the theoretical predictions of the thermal activation model, supporting its relevance in describing rheological behavior at high shear rates.
 
+See our publications:
 
-<!--
+[Comparing Phenomenological Models of Shear Thinning of Alkanes at Low and High Newtonian Viscosities](https://link.springer.com/article/10.1007/s11249-024-01908-7)
+
+[Rheological Properties of Small-Molecular Liquids at High Shear Strain Rates](https://www.mdpi.com/2073-4360/15/9/2166)
+
 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
-
+<!--
 ## MathJax
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
