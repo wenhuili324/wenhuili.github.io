@@ -23,8 +23,8 @@ See our publications:
 [Rheological Properties of Small-Molecular Liquids at High Shear Strain Rates](https://www.mdpi.com/2073-4360/15/9/2166)
 
 
-[Squalane viscosity and shear stress under various shear rates](/assets/viscosity_stress.png)
-[Squalane's atom pairs orientation under different pressures by PCA dimension reduction](/assets/dist_backbone.png)
+![Squalane viscosity and shear stress under various shear rates](/assets/viscosity_stress.png)
+![Squalane's atom pairs orientation under different pressures by PCA dimension reduction](/assets/dist_backbone.png)
 
 <!--
 ## MathJax
