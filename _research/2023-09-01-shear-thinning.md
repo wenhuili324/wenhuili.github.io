@@ -24,9 +24,9 @@ See our publications:
 
 
 ![Squalane viscosity and shear stress under various shear rates](/assets/viscosity_stress.png)
-## Fig.1 Squalane viscosity and shear stress under various shear rates
+### Fig.1 Squalane viscosity and shear stress under various shear rates
 
 
 ![Squalane's atom pairs orientation under different pressures by PCA dimension reduction](/assets/dist_backbone.png)
-## Fig.2 Squalane's atom pairs orientation under different pressures by PCA dimension reduction
+### Fig.2 Squalane's atom pairs orientation under different pressures by PCA dimension reduction
 
