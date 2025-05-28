@@ -15,5 +15,6 @@ The second sub-project focused on predicting the energy usage of manufacturing f
 We further developed an end-to-end solution by integrating A-RNN with two databases and a visualization pipeline, enabling comprehensive energy data management and analysis. This system empowers small and mid-sized manufacturers to better understand their energy consumption patterns, correlate them with machinery and operational processes, and ultimately improve energy efficiency while reducing their carbon footprint.
 
 See our publications:
+
 [Industrial Energy Forecasting Using Dynamic Attention Neural Networks](https://doi.org/10.1016/j.egyai.2025.100504)
 
