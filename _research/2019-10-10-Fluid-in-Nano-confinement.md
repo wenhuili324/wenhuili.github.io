@@ -6,6 +6,8 @@ categories: media
 ---
 Fluids confined within nanoscale pores exhibit structural and transport behaviors that differ fundamentally from those in the bulk phase. In nanoconfinements, fluid molecules experience strong surface interactions and geometric constraints, leading to inhomogeneous density distributions, layering effects, and altered phase behavior. These deviations significantly impact properties such as viscosity, diffusivity, and solubility. Such effects are particularly critical in energy applications like shale gas and oil recovery, where hydrocarbons reside in nanoporous kerogen matrices, and in CO₂ geo-sequestration, where tight geological formations serve as long-term storage media. Understanding fluid distribution and transport in these confined environments is essential for accurately predicting resource recovery efficiency and ensuring the stability and effectiveness of CO₂ storage strategies. Conventional bulk-phase models often fail under such conditions, highlighting the need for advanced nanoscale modeling to capture these confinement-induced phenomena.
 
+<!--more-->
+
 We employed molecular dynamics (MD) simulations to systematically investigate CO₂ solubility in confined environments, revealing how surface chemistry, pore size, and the presence of salt ions collectively influence "over-solubility" or "under-solubility" phenomena. These findings demonstrate the potential and complexity of CO₂ geo-sequestration in tight formations. Additionally, we developed in-house computational tools to characterize amorphous nanoporous media and simulate gas transport. Our results highlight how factors such as porosity, pore connectivity, size distribution, and tortuosity govern diffusion behavior, offering valuable insights for optimizing shale gas recovery.
 
 See our publications:
@@ -25,7 +27,7 @@ See our publications:
 [Dependence of Methane Transport on Pore Informatics in the Amorphous Nanoporous Kerogen Matrix](https://doi.org/10.1021/acs.langmuir.3c02916)
 
 ![CO2 Solubility](/assets/CO2_Solubility.jpg)
-## Fig.1 CO2 solubility in the nanoconfinements with different surface chemistry
+### Fig.1 CO2 solubility in the nanoconfinements with different surface chemistry
 
 ![Kerogen matrix](/assets/kerogen_matrix.jpg)
-## Fig.2 An example of kerogen matrix: the blue and pink represent connect and unconnected pores, respectively
+### Fig.2 An example of kerogen matrix: the blue and pink represent connect and unconnected pores, respectively
