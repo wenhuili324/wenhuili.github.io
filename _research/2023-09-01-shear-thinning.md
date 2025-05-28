@@ -6,6 +6,8 @@ categories: media
 ---
 Shear thinning is a phenomenon where a fluid’s viscosity decreases with increasing shear rate, playing a critical role in many industrial applications. For example, lubricants—typical shear-thinning fluids—reduce friction and wear between moving parts, and their viscosity response under shear is essential for maintaining optimal performance.
 
+<!--more-->
+
 Laboratory experiments are typically limited to shear rates below 10⁵ s⁻¹, whereas real-world applications—such as engine oil lubrication—can involve shear rates reaching up to 10¹⁰ s⁻¹. While many rheological models can fit experimental data well within the measured range, their predictions often diverge significantly when extrapolated to higher shear rates. This makes it challenging to develop accurate rheological models that reliably capture shear thinning behavior across a broad spectrum of shear rates.
 
 In this project, we employed non-equilibrium molecular dynamics (NEMD) simulations to investigate the rheological properties of lubricant molecules under high shear rates. NEMD has proven to be a powerful and reliable tool for accurately reproducing the Newtonian viscosities of lubricants. By combining NEMD simulation results with existing experimental data, we evaluated two key categories of rheological models central to the ongoing debate.
