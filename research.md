@@ -14,3 +14,6 @@ permalink: /research/
     </li>
   {% endfor %}
 </ul>
+
+{{ post.excerpt }}
+<a href="{{ post.url }}">Read more</a>
