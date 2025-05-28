@@ -9,3 +9,12 @@ Some photos from the 2025 APS Global Physics Summit (March 16–21) in Anaheim, 
 ![Presentation](/assets/APS_Presentation.jpg)
 ### I have a presentation in this conference
 
+![cookie](/assets/APS_cookie.jpg)
+### After a long day of meetings, we sat down together to enjoy some cookies
+
+![food](/assets/APS_food.jpg)
+### Amazing Yemeni cuisine
+
+![board](/assets/APS_board.jpg)
+### Group photo in front of the APS board
+
