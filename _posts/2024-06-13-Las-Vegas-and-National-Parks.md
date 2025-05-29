@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 ---
-After wrapping up a two-day academic meeting at the University of Michigan, I flew straight to Las Vegas to meet up with Yiling, who came from Baltimore. From there, we rented a car and set out on an unforgettable road trip through some of the most iconic national parks in the American Southwest—Grand Canyon, Antelope Valley, Arches, Canyonlands, Bryce Canyon, Monument Valley, and Zion.
+After wrapping up a two-day academic meeting at the University of Michigan, I flew straight to Las Vegas to meet up with Yiling. From there, we rented a car and set out on an unforgettable road trip through some of the most iconic national parks in the American Southwest—Grand Canyon, Antelope Valley, Arches, Canyonlands, Bryce Canyon, Monument Valley, and Zion.
 
 The weather was dry and hot, typical of the desert landscape. Even though this was my second time visiting, the breathtaking natural beauty of the western U.S. still left me in awe. The vastness, colors, and geological wonders of the region never fail to amaze me.
 
