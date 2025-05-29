@@ -26,8 +26,8 @@ See our publications:
 
 [Dependence of Methane Transport on Pore Informatics in the Amorphous Nanoporous Kerogen Matrix](https://doi.org/10.1021/acs.langmuir.3c02916)
 
-![CO2 Solubility](/assets/CO2_Solubility.jpg)
+![CO2 Solubility](/assets/research_pics/CO2_Solubility.jpg)
 ### Fig.1 CO2 solubility in the nanoconfinements with different surface chemistry
 
-![Kerogen matrix](/assets/kerogen_matrix.jpg)
+![Kerogen matrix](/assets/research_pics/kerogen_matrix.jpg)
 ### Fig.2 An example of kerogen matrix: the blue and pink represent connect and unconnected pores, respectively

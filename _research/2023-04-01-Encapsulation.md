@@ -13,10 +13,10 @@ We integrated molecular dynamics (MD) simulations with experimental data to inve
 Another key insight is that, for efficient encapsulation, the interaction strength between nanoparticles and protomers must be at least comparable to that between protomers themselves. However, if the nanoparticle–protomer interaction is too strong, it can lead to kinetic trapping, where assembly errors become locked in and cannot be corrected through self-organization. This highlights the need for a delicate balance in interaction strengths to ensure both stability and proper assembly. 
 
 
-![PMF Simulation system](/assets/PMF_System.png)
+![PMF Simulation system](/assets/research_pics/PMF_System.png)
 
 ### Fig.1 MD simulation system for calculating potential of mean force (PMF) between nanoparticle and protomer
 
-![TEM](/assets/TEM.png)
+![TEM](/assets/research_pics/TEM.png)
 
 ### Fig.2 TEM image of encapsulated nanopaticles functionalized by ligands and peptides

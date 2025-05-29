@@ -25,10 +25,10 @@ See our publications:
 [Rheological Properties of Small-Molecular Liquids at High Shear Strain Rates](https://www.mdpi.com/2073-4360/15/9/2166)
 
 
-![Squalane viscosity and shear stress under various shear rates](/assets/viscosity_stress.png)
+![Squalane viscosity and shear stress under various shear rates](/assets/research_pics/viscosity_stress.png)
 ### Fig.1 Squalane viscosity and shear stress under various shear rates
 
 
-![Squalane's atom pairs orientation under different pressures by PCA dimension reduction](/assets/dist_backbone.png)
+![Squalane's atom pairs orientation under different pressures by PCA dimension reduction](/assets/research_pics/dist_backbone.png)
 ### Fig.2 Squalane's atom pairs orientation under different pressures by PCA dimension reduction
 
