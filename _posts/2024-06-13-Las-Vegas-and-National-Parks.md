@@ -49,7 +49,7 @@ The weather was dry and hot, typical of the desert landscape. Even though this w
 ![NP_las_vegas](/assets/life_pics/NP_las_vegas.jpg)
 ### One spin away from the dream… or just more fun!
 
-![NP_las_vegas_2](/assets/life_pics/NP_las_vegas.jpg)
+![NP_las_vegas_2](/assets/life_pics/NP_las_vegas_2.jpg)
 ### Reporting live from Fabulous Las Vegas!
 
 
