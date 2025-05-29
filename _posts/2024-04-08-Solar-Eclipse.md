@@ -15,7 +15,7 @@ April 8th, 2024 — the day the sun and moon danced across the sky. Grateful to 
 ### Yiling just so happens to be here!
 
 ![Eclipse_partial](/assets/life_pics/Eclipse_partial.JPG)
-### 2/3 of the Sun is covered by the Moon!
+### 2/3 of the Sun was covered by the Moon!
 
 ![Eclipse_full](/assets/life_pics/Eclipse_full.JPG)
 ### The Moment the Moon Stole the Sun!
