@@ -8,28 +8,28 @@ Christmas holidays with my mom and my wife Yiling in Florida — a perfect escap
 
 <!--more-->
 
-![Florida_St_Augustine](/assets/Florida_Augustine.jpg)
+![Florida_St_Augustine](/assets/life_pics/Florida_Augustine.jpg)
 ### Lion Statue in St. Augustine
 
-![Florida_Silver_Spring](/assets/Florida_Silver_Spring.jpg)
+![Florida_Silver_Spring](/assets/life_pics/Florida_Silver_Spring.jpg)
 ### Kayak in Silver Springs
 
-![Florida_Kings_Spring](/assets/Florida_Kings_Spring.jpg)
+![Florida_Kings_Spring](/assets/life_pics/Florida_Kings_Spring.jpg)
 ### Kayak in Kings Springs
 
-![Florida_Manatee](/assets/Florida_Manatee.jpg)
+![Florida_Manatee](/assets/life_pics/Florida_Manatee.jpg)
 ### Meet the Manatee—The Surprising Origin of Mermaid Legend
 
-![Florida_Ringling](/assets/Florida_Ringling.jpg)
+![Florida_Ringling](/assets/life_pics/Florida_Ringling.jpg)
 ### The Ringling Museum
 
-![Florida_Sarasota](/assets/Florida_Sarasota.jpg)
+![Florida_Sarasota](/assets/life_pics/Florida_Sarasota.jpg)
 ### White Sand Beach in Sarasota
 
-![Florida_Alligator](/assets/Florida_Alligator.jpg)
+![Florida_Alligator](/assets/life_pics/Florida_Alligator.jpg)
 ### Alligator or Crocodile? Do you know the difference?
 
-![Florida_Key_West](/assets/Florida_Key_West.jpg)
+![Florida_Key_West](/assets/life_pics/Florida_Key_West.jpg)
 ### Scenic Drive to Key West—Endless Blue Waters
 
 

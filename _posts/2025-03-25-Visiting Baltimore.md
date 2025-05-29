@@ -6,11 +6,11 @@ Visited my wife in Baltimore, MD, and stayed for two weeks. Had a great time—t
 
 <!--more-->
 
-![Baltimore_food](/assets/Baltimore_food.jpg)
+![Baltimore_food](/assets/life_pics/Baltimore_food.jpg)
 ### Nice Korean food
 
-![Baltimore_cherry_blossoms](/assets/Baltimore_cherry_blossoms.jpg)
+![Baltimore_cherry_blossoms](/assets/life_pics/Baltimore_cherry_blossoms.jpg)
 ### Enjoying the stunning cherry blossoms on campus at University of Maryland
 
-![Baltimore_flower](/assets/Baltimore_flower.jpg)
+![Baltimore_flower](/assets/life_pics/Baltimore_flower.jpg)
 ### Spring in full bloom at Fort McHenry National Monument

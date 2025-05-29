@@ -6,9 +6,9 @@ As a basketball fan, there’s nothing quite like the excitement of watching a l
 
 <!--more-->
 
-![NBA_1](/assets/NBA_1.jpg)
+![NBA_1](/assets/life_pics/NBA_1.jpg)
 ### In the game
 
-![NBA_2](/assets/NBA_2.jpg)
+![NBA_2](/assets/life_pics/NBA_2.jpg)
 ### Indiana Pacers finally won the game, Yoho!
 
