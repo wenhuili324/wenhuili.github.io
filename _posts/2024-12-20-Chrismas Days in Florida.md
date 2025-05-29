@@ -8,7 +8,7 @@ Christmas holidays with my mom and my wife Yiling in Florida — a perfect escap
 
 <!--more-->
 
-![Florida_St_Augustine](/assets/Florida_Augustine.HEIC)
+![Florida_St_Augustine](/assets/Florida_Augustine.jpg)
 ### Lion Statue in St. Augustine
 
 ![Florida_Silver_Spring](/assets/Florida_Silver_Spring.jpg)
