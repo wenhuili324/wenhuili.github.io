@@ -9,16 +9,16 @@ Happy New Year! Yiling and I were in Chicago to celebrate the New Year! Chicago'
 <!--more-->
 
 ![Chicago_light_show_1](/assets/life_pics/Chicago_light_show_1.jpg)
-### Light show at Botantic Garden
+### Light show at Botanic Garden
 
 ![Chicago_light_show_2](/assets/life_pics/Chicago_light_show_2.jpg)
-### Light show at Botantic Garden
+### Light show at Botanic Garden
 
 ![Chicago_light_show_3](/assets/life_pics/Chicago_light_show_3.jpg)
-### Light show at Botantic Garden
+### Light show at Botanic Garden
 
 ![Chicago_light_show_4](/assets/life_pics/Chicago_light_show_4.jpg)
-### Light show at Botantic Garden
+### Light show at Botanic Garden
 
 ![Chicago_lion](/assets/life_pics/Chicago_lion.jpg)
 ### Lions at Lincoln Park Zoo
