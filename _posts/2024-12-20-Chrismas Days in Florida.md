@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 ---
-Christmas holidays with my mom and my wife Yiling in Florida — a perfect escape from the cold winter. It’s always a joy to trade snow for sunshine and spend time relaxing on the beach, soaking up the warmth and making memories together.
+Christmas holidays with my mom and Yiling in Florida — a perfect escape from the cold winter. It’s always a joy to trade snow for sunshine and spend time relaxing on the beach, soaking up the warmth and making memories together.
 
 <!--more-->
 
