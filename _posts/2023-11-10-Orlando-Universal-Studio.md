@@ -11,7 +11,7 @@ Just wrapped up a five-day vacation at Universal Studios in Orlando—what an ad
 ![Orlando_1](/assets/life_pics/Orlando_1.jpg)
 ### One wrong spell and he’s breathing fire
 
-![Orlando_2](/assets/life_pics/Orlando_2.jpg)
+![Orlando_2](/assets/life_pics/Orlando_2.JPG)
 ### Lost? Never. Just plotting my next magical move
 
 ![Orlando_3](/assets/life_pics/Orlando_3.jpg)
@@ -20,10 +20,10 @@ Just wrapped up a five-day vacation at Universal Studios in Orlando—what an ad
 ![Orlando_4](/assets/life_pics/Orlando_4.jpg)
 ### Found Poseidon's lost weapon—he must’ve been busy!
 
-![Orlando_5](/assets/life_pics/Orlando_5.jpg)
+![Orlando_5](/assets/life_pics/Orlando_5.JPG)
 ### The Adventure Begins… with a soda in hand!
 
-![Orlando_6](/assets/life_pics/Orlando_6.jpg)
+![Orlando_6](/assets/life_pics/Orlando_6.JPG)
 ### Hug first, run later.
 
 ![Orlando_7](/assets/life_pics/Orlando_7.jpg)
