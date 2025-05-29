@@ -1,5 +1,5 @@
 ---
-title:  "New Year Eve in Chicago"
+title:  "Orlando Universal Studios"
 mathjax: true
 layout: post
 categories: media
