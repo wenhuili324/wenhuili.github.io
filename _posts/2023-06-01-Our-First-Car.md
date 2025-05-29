@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 ---
-Finally buy our first car in the US after the chaos of the supply chain during post COVID. I love so much about the Mazda's design - It looks really sharp. 
+Finally bought our first car in the US after the chaos of the supply chain during post COVID. I love so much about the Mazda's design - It looks really sharp. 
 
 <!--more-->
 
