@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 ---
-Drive to Chicago to feel the Fall of Chicago
+Feel the Fall of Chicago
 
 <!--more-->
 
