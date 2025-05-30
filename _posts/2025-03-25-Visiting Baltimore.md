@@ -2,7 +2,7 @@
 title:  "Visiting Baltimore"
 layout: post
 ---
-Visited my wife in Baltimore, MD, and stayed for two weeks. Had a great time—there’s definitely more good Asian food compared to the Midwest, even though people often bring up safety concerns. While we were there, we received some exciting news: the University of Kansas extended an offer to my wife! Truly a moment to celebrate!
+Visited Yiling in Baltimore, MD, and stayed for two weeks. Had a great time—there’s definitely more good Asian food compared to the Midwest, even though people often bring up safety concerns. While we were there, we received some exciting news: the University of Kansas extended an offer to Yiling! Truly a moment to celebrate!
 
 <!--more-->
 
