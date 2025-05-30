@@ -9,7 +9,7 @@ April 8th, 2024 — the day the sun and moon danced across the sky. Grateful to 
 <!--more-->
 
 ![Eclipse_me](/assets/life_pics/Eclipse_me.jpg)
-### I wear an eclipse glasses to look up the sky
+### Wear an eclipse glasses to look up the sky
 
 ![Eclipse_Yiling](/assets/life_pics/Eclipse_Yiling.jpg)
 ### Yiling just so happens to be here!
