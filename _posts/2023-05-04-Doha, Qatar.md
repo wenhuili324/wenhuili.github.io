@@ -10,20 +10,20 @@ PS: This is my first time returning to China to see my family in five years! So 
 
 <!--more-->
 
-![Qatar_1](/assets/life_pics/Qatar_1.jpg)
+![Qatar_1](/assets/life_pics/Qatar_1.JPG)
 ### Local Market
 
-![Qatar_2](/assets/life_pics/Qatar_2.jpg)
+![Qatar_2](/assets/life_pics/Qatar_2.JPG)
 ### Fancy Building
 
-![Qatar_3](/assets/life_pics/Qatar_3.jpg)
+![Qatar_3](/assets/life_pics/Qatar_3.JPG)
 ### Layover luxury: Doha after dark
 
-![Qatar_4](/assets/life_pics/Qatar_4.jpg)
+![Qatar_4](/assets/life_pics/Qatar_4.JPG)
 ### A Symphony of Color by the Sea
 
-![Qatar_5](/assets/life_pics/Qatar_5.jpg)
+![Qatar_5](/assets/life_pics/Qatar_5.JPG)
 ### Fanar Qatar Islamic Cultural Center, aka the Spiral Mosque
 
-![Qatar_6](/assets/life_pics/Qatar_6.jpg)
+![Qatar_6](/assets/life_pics/Qatar_6.JPG)
 ### Golden Glow at Souq Waqif
