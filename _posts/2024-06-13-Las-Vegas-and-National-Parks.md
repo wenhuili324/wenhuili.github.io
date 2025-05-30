@@ -1,5 +1,5 @@
 ---
-title:  "Las Vegas and National Parks (Again)"
+title:  "Las Vegas, I'm Coming Again"
 mathjax: true
 layout: post
 categories: media
