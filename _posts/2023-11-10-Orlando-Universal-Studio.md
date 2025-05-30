@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 ---
-Just wrapped up a five-day vacation at Universal Studios in Orlando—what an adventure! We had an amazing time exploring all three theme parks: Universal Studios Florida, Islands of Adventure, and Volcano Bay. Luckily, we managed to hit all the major attractions and rides within the first three days, from thrilling roller coasters to immersive movie-themed worlds. Unfortunately, I came down with a cold during the last two days, which slowed things down a bit.
+Just wrapped up a five-day vacation at Universal Studios in Orlando! We had an amazing time exploring all three theme parks: Universal Studios Florida, Islands of Adventure, and Volcano Bay. Luckily, we managed to hit all the major attractions and rides within the first three days, from thrilling roller coasters to immersive movie-themed worlds. Unfortunately, I came down with a cold during the last two days, which slowed things down a bit.
 
 <!--more-->
 
