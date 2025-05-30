@@ -4,7 +4,9 @@ mathjax: true
 layout: post
 categories: media
 ---
-Happy New Year! Yiling and I were in Chicago to celebrate the New Year! Chicago's winter is really cold!
+Happy New Year! Yiling and I were in Chicago to celebrate the New Year! 
+
+PS: Chicago's winter is really cold!
 
 <!--more-->
 
