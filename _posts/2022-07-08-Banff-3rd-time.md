@@ -29,7 +29,7 @@ This may be my last visit to Banff National Park, and I’m grateful to have sha
 ![Banff_canyon](/assets/life_pics/Banff_canyon.JPG)
 ### Johnston Canyon: Walking Through Time in Stone
 
-![Banff_animal](/assets/life_pics/Banff_animal.JPG)
+![Banff_elk](/assets/life_pics/Banff_elk.JPG)
 ### Royal Roadside Encounter: Bull Elk in Banff
 
 ![Banff_Moraine_Lake](/assets/life_pics/Banff_Moraine_Lake.JPG)
