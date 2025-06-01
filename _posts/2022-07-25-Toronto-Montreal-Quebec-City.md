@@ -30,5 +30,5 @@ Before leaving Canada, we took a memorable road trip through Toronto, Montreal, 
 ### Signed, Sealed, and Smiling
 
 ![Toronto_Quebec_6](/assets/life_pics/Toronto_Quebec_6.JPG)
-### A Gentle Evening on the Lake
+### A Gentle Evening on the Rice Lake
 
