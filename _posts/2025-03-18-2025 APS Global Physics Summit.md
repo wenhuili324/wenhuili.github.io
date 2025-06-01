@@ -16,5 +16,5 @@ Some photos from the 2025 APS Global Physics Summit (March 16–21) in Anaheim, 
 ### Amazing Yemeni cuisine
 
 ![board](/assets/life_pics/APS_board.jpg)
-### Group photo in front of the APS board
+### Group photo in front of the APS board: Vikram-> me -> Fanbo
 
