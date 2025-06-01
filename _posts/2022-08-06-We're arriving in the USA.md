@@ -1,5 +1,5 @@
 ---
-title:  "USA, We're Coming"
+title:  "New Chapter in USA"
 mathjax: true
 layout: post
 categories: media
