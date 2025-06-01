@@ -9,7 +9,7 @@ This summer, Yiling completed her Ph.D.—a big milestone worth celebrating! Bot
 <!--more-->
 
 ![University_IU](/assets/life_pics/University_IU.JPG)
-### The Iconic Sample gate of Indiana University Bloomington
+### The Iconic Sample Gate of Indiana University Bloomington
 
 ![University_UMB](/assets/life_pics/University_UMB.JPG)
 ### Inner Harbor of Baltimore
