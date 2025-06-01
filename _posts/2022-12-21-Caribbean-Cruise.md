@@ -15,16 +15,16 @@ For this year’s Christmas holiday, we chose to escape the Midwest snow and spe
 ### The cruise has set sail — look at the trail behind us and the rising sun
 
 ![Cruise_ship](/assets/life_pics/Cruise_ship.JPG)
-### Have a phote with the ship
+### Have a phote with the gaint guy
 
 ![Cruise_food](/assets/life_pics/Cruise_food.JPG)
-### Nice food
+### Nice steak
 
 ![Cruise_half_moon_cay](/assets/life_pics/Cruise_half_moon_cay.JPG)
 ### Yiling on the beach of Half Moon Cay
 
 ![Cruise_snorkeling](/assets/life_pics/Cruise_snorkeling.JPG)
-### Snorkeling
+### Snorkeling in Half Moon Cay
 
 ![Cruise_jamaica](/assets/life_pics/Cruise_jamaica.JPG)
 ### We're in Jamaica
