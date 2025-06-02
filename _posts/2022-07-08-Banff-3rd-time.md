@@ -36,7 +36,7 @@ This may be my last visit to Banff National Park, and I’m grateful to have sha
 ### Moraine Lake: Framed by Mountains
 
 ![Banff_group_photo](/assets/life_pics/Banff_group_photo.JPG)
-### Group photo
+### Group photo at Moraine Lake
 
 
 
