@@ -4,7 +4,7 @@ layout: post
 mathjax: true
 categories: media
 ---
-I participated two sub-projects under the `AnalytiXIN` initiative.
+I participated two sub-projects under the [AnalytiXIN][AnalytiXIN] initiative.
 
 The first sub-project was conducted in collaboration with Toyota. Their paint defect inspection process relies on the Surface Verification System (SVS), which uses multiple cameras to capture images of every angle and inch of a car’s surface. These images are then analyzed to highlight potential defect areas. However, the system generates a high number of false positives—regions flagged as defects that are not actual flaws—leading to a time-consuming manual review process.
 
@@ -19,4 +19,6 @@ We further developed an end-to-end solution by integrating A-RNN with two databa
 See our publications:
 
 [Industrial Energy Forecasting Using Dynamic Attention Neural Networks](https://doi.org/10.1016/j.egyai.2025.100504)
+
+[AnalytiXIN]: https://analytixindiana.com/
 
