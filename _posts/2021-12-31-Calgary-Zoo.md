@@ -8,7 +8,7 @@ Each winter, the Calgary Zoo transforms into a dazzling wonderland with Zoolight
 
 This year marked the 25th anniversary of Zoolights at the Calgary Zoo—a milestone celebration. After spending so much time at home during the COVID pandemic, it was a true joy to step back into the festive spirit and experience the magic of the season outdoors.
 
-And Happy New Year!
+Happy New Year!
 
 <!--more-->
 
