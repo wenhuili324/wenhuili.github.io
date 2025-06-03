@@ -8,3 +8,37 @@ Banff National Park is arguably the most iconic and breathtaking national park i
 
 <!--more-->
 
+![Banff_mountain](/assets/life_pics/Banff_mountain.JPG)
+### Love this Mountain!
+
+![Banff_glaciers](/assets/life_pics/Banff_glaciers.JPG)
+### Athabasca Glaciers
+
+![Banff_glaciers_2](/assets/life_pics/Banff_glaciers_2.JPG)
+### Sipping the Past: Yiling Enjoys Water from the Glacial Age
+
+![Banff_jasper](/assets/life_pics/Banff_jasper.JPG)
+### Skywalk: Columbia Icefield
+
+![Banff_Maligne_lake](/assets/life_pics/Banff_Maligne_lake.JPG)
+### Maligne Lake in the peaceful morning
+
+![Banff_Maligne_lake_2](/assets/life_pics/Banff_Maligne_lake_2.JPG)
+### Whole picture of Maligne Lake
+
+![Banff_peyto_lake](/assets/life_pics/Banff_peyto_lake.JPG)
+### Peyto Lake looks like a bear paw
+
+![Banff_bow_lake](/assets/life_pics/Banff_bow_lake.JPG)
+### Peyto Lake looks like a bear paw
+
+![Banff_Athabasca_fall](/assets/life_pics/Banff_Athabasca_fall.JPG)
+### Athabasca Falls
+
+![Banff_Johnston](/assets/life_pics/Banff_Johnston.JPG)
+### Johnston Canyon
+
+![Banff_lake_Louise](/assets/life_pics/Banff_lake_Louise.JPG)
+### Kayak in the postcard Lake Louise
+
+
