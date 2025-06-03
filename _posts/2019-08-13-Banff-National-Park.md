@@ -27,10 +27,10 @@ Banff National Park is arguably the most iconic and breathtaking national park i
 ### Whole picture of Maligne Lake
 
 ![Banff_peyto_lake](/assets/life_pics/Banff_peyto_lake.JPG)
-### Peyto Lake looks like a bear paw
+### Peyto Lake looks like a cat paw
 
 ![Banff_bow_lake](/assets/life_pics/Banff_bow_lake.JPG)
-### Peyto Lake looks like a bear paw
+### Bow Lake
 
 ![Banff_Athabasca_fall](/assets/life_pics/Banff_Athabasca_fall.JPG)
 ### Athabasca Falls
