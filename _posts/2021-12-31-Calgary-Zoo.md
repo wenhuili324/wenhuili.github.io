@@ -11,3 +11,15 @@ This year marked the 25th anniversary of Zoolights at the Calgary Zoo—a milest
 And Happy New Year!
 
 <!--more-->
+
+![zoolight_1](/assets/life_pics/zoolight_1.JPG)
+### Mandrill: The Painted King of the Jungle
+
+![zoolight_2](/assets/life_pics/zoolight_2.JPG)
+### Feel the Cold
+
+![zoolight_3](/assets/life_pics/zoolight_3.JPG)
+### Yiling is working so hard to carve the ice ❄️🧊
+
+![zoolight_4](/assets/life_pics/zoolight_4.JPG)
+### Happy Holidays!
