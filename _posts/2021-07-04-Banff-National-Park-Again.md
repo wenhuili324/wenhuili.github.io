@@ -8,16 +8,16 @@ I returned to Banff National Park once again—this time with Yiling and our fri
 
 <!--more-->
 ![Banff_1](/assets/life_pics/Banff_1.JPG)
-### 
+### Me
 
 ![Banff_2](/assets/life_pics/Banff_2.JPG)
-### 
+### Yiling
 
 ![Banff_3](/assets/life_pics/Banff_3.JPG)
-### 
+### Yanwen
 
 ![Banff_4](/assets/life_pics/Banff_4.JPG)
-### 
+### Little Fox
 
 ![Banff_5](/assets/life_pics/Banff_5.JPG)
 ### 
