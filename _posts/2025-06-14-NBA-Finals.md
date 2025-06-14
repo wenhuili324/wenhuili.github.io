@@ -12,7 +12,7 @@ PS: Referee sucks!
 
 <!--more-->
 
-![NBA_7](/assets/life_pics/NBA_7.jpg)
+![NBA_9](/assets/life_pics/NBA_9.jpg)
 ### Group Selfie
 
 ![NBA_8](/assets/life_pics/NBA_8.jpg)
