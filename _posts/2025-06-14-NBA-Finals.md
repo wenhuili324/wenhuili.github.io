@@ -16,4 +16,4 @@ PS: Referee sucks!
 ### Group Selfie
 
 ![NBA_8](/assets/life_pics/NBA_8.jpg)
-### This is Indiana
+### THIS IS INDIANA
