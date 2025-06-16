@@ -9,19 +9,19 @@ Between semesters, Yiling and I traveled to Yellowknife, a small town in Canadaâ
 <!--more-->
 
 ![Yellowknife_1](/assets/life_pics/Yellowknife_1.JPG)
-### 
+### Polar Bear Specimen at Yellowknife Airport
 
 ![Yellowknife_2](/assets/life_pics/Yellowknife_2.JPG)
-### 
+### Feel the low sky and early evening at 2 PM
 
 ![Yellowknife_3](/assets/life_pics/Yellowknife_3.JPG)
-### 
+### Tent in the night to chase the Aurora.
 
 ![Yellowknife_4](/assets/life_pics/Yellowknife_4.JPG)
-### 
+### Another Polar Bear Specimen
 
 ![Yellowknife_5](/assets/life_pics/Yellowknife_5.JPG)
-### 
+### Bison's Specimen in the Snow
 
 ![Yellowknife_6](/assets/life_pics/Yellowknife_6.JPG)
-### 
+### The Fun Dog Sledding
