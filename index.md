@@ -3,7 +3,7 @@ title: "Welcome to Wenhui Li's Personal Website"
 layout: page
 ---
 
-Hi! I’m Wenhui Li, I'm living in Lawrence, KS. With 10+ years of experiences, I'm working at the intersection of computational science, chemical and biological engineering, and machine learning.
+Hi! I’m Wenhui Li, I have been working at the intersection of computational science, chemical and biological engineering, and machine learning over 10 years.
 
 My research focuses on soft material via computational methods, spanning from molecular-level modeling of fluid behavior at interface and in porous media to the application of AI/ML techniques for accelerating scientific discovery. I’m driven by the goal of making science smarter and more sustainable. I am especially interested in interdisciplinary collaboration, real-world impact, and mentoring the next generation of scientists and engineers. 
 
