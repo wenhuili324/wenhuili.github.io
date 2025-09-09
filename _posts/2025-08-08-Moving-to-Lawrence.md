@@ -11,9 +11,8 @@ Overall, I really like this place.
 
 <!--more-->
 
-![NBA_9](/assets/life_pics/NBA_9.jpg)
-### Group Selfie
+![Lawrence_1](/assets/life_pics/Lawrence_1.jpg)
 
-![NBA_8](/assets/life_pics/NBA_8.jpg)
-### THIS IS INDIANA
+![Lawrence_2](/assets/life_pics/Lawrence_2.jpg)
+### Kansas is known for sunflowers
 
